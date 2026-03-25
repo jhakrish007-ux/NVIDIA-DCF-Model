@@ -1,4 +1,4 @@
-# DCF-Financial-Model
+# NVIDIA DCF-Financial-Model
 This project is a Discounted Cash Flow (DCF) model built in Excel to estimate the intrinsic value of a company based on projected financial performance.
 
 ## Overview
