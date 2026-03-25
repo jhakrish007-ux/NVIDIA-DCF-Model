@@ -1,7 +1,9 @@
 # NVIDIA DCF-Financial-Model
+Valuation of NVIDIA using Discounted Cash Flow (DCF) methodology
 This project is a Discounted Cash Flow (DCF) model built in Excel to estimate the intrinsic value of a company based on projected financial performance.
 
 ## Overview
+Key assumptions include revenue growth projections, operating margins, and a discount rate (WACC) to estimate intrinsic value.
 The model forecasts future cash flows and discounts them back to present value using an assumed discount rate (WACC). It is designed to evaluate company valuation based on financial fundamentals.
 
 ## Key Features
