@@ -1,5 +1,5 @@
 # NVIDIA DCF-Financial-Model
-Valuation of NVIDIA using Discounted Cash Flow (DCF) methodology
+Valuation of NVIDIA using the Discounted Cash Flow (DCF) methodology
 This project is a Discounted Cash Flow (DCF) model built in Excel to estimate the intrinsic value of a company based on projected financial performance.
 
 ## Overview
